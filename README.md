@@ -1,9 +1,3 @@
-# Submission by Titans
-Entry of Titans, from SRM Institute of Science and Technology, Kattankulathur, 
-
-<h2 align= "left"><b>Tracks and Problem Statement</b></h2>
-
-Track : Xplore
 
 Our Approach : During pandemic ,all were in a constant stalemate and were afraid to step out of their houses. Post pandemic the effects still prevails in our country. This is the reason we are providing an AID to the hectic admission process for a parent in a virtual medium. So, our idea is basically to provide a platform that will compare various schools in that region and help people get what they exactly want.
 The entire admission process will be virtual so that they need not go for any physical meetups from school to school and can get best by sitting at their home.
@@ -79,7 +73,7 @@ A versatile and helpful chatbot will be present on our webpage for the aid of th
 <tr align="center">
   
   
-<td>
+
 <td>
 
 Mohammad Muazam
@@ -96,7 +90,7 @@ Mohammad Muazam
 </td>
 
 
-<td>
+
   
  <td>
 
@@ -114,9 +108,9 @@ Mayukh Mousam Mishra
 </td>
 
 
-<td>
 
-<td>
+
+
 
 
   </tr>
