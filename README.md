@@ -1,4 +1,4 @@
-
+# DBMS Project Submission
 Our Approach : During pandemic ,all were in a constant stalemate and were afraid to step out of their houses. Post pandemic the effects still prevails in our country. This is the reason we are providing an AID to the hectic admission process for a parent in a virtual medium. So, our idea is basically to provide a platform that will compare various schools in that region and help people get what they exactly want.
 The entire admission process will be virtual so that they need not go for any physical meetups from school to school and can get best by sitting at their home.
 
