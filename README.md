@@ -78,20 +78,7 @@ A versatile and helpful chatbot will be present on our webpage for the aid of th
 <table>
 <tr align="center">
   
-  <td>
   
-Suvodeep Sinha
-
-<p align="center">
-<img src = "https://avatars1.githubusercontent.com/u/52796258"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/Suvoo"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 <td>
 <td>
 
@@ -131,34 +118,7 @@ Mayukh Mousam Mishra
 
 <td>
 
-Naman Jain
 
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77778261?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/namannj15"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/namannj15">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-  
-  <td> 
-  <td>
-    Abhigyan Singh
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/60261112?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/Blazikengr8"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/abhigyan-singh-9a00b0192/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
   </tr>
 
   </table>
